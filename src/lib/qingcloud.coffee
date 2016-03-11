@@ -1,5 +1,6 @@
 extend = require 'extend'
 request = require 'request'
+querystring = require 'querystring'
 
 util = require './util'
 config = require '../config'
